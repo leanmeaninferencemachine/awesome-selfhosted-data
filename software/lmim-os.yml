@@ -1,10 +1,11 @@
 name: LMIM OS
+website_url: https://lmim.tech
+source_code_url: https://github.com/leanmeaninferencemachine/leanmeaninferencemachine
 description: 'Local AI OS with RAG, workspace sandbox, web scraper, contacts, voice, CUDA acceleration. Bundled model. No cloud. Linux (AppImage) + Windows (Installer).'
-license: AGPL-3.0
+licenses:
+  - AGPL-3.0
 platforms:
   - Linux
   - Windows
 tags:
-  - generative-ai
-source_code_url: https://github.com/leanmeaninferencemachine/leanmeaninferencemachine
-demo_url: https://lmim.tech
+  - Generative Artificial Intelligence (GenAI)
